@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-	//welecome message, and title
+	//welecome message, and title  
 
 	cout << "\n\n\t\t***welecome to my adventure!***\n\n";
 	//giving the layout
